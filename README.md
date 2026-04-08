@@ -1,1 +1,1 @@
-# Linkdin-post
+# linkedin-post-generator
